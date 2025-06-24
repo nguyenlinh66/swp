@@ -341,7 +341,10 @@
         <servlet-name>ChatServlet</servlet-name>
         <url-pattern>/ChatServlet</url-pattern>
     </servlet-mapping>
+<<<<<<< HEAD
    
+=======
+>>>>>>> 1fd35676f055b893d6739c7ef84bed1b266750ea
     <session-config>
         <session-timeout>
             30

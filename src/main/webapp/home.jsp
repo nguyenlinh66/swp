@@ -6,7 +6,11 @@
     <!DOCTYPE html>
     <html lang="en">
         <head>
+<<<<<<< HEAD
             <base href="http://localhost:9999/" />
+=======
+            <base href="http://localhost:8080/" />
+>>>>>>> 1fd35676f055b893d6739c7ef84bed1b266750ea
             <link rel="icon" type="image/x-icon" href="./uploads/base/favicon.png">
             <meta charset="UTF-8" />
             <meta name="viewport" content="width=device-width, initial-scale=1.0" />
